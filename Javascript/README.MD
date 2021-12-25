@@ -8,7 +8,7 @@
     console.log(del); // => 0
 ```
   2.push()
-  **调用push()方法会向数组末尾追加一个元素，返回更新后数组的长度**
+  **调用push()方法会向数组末尾追加一个或多个元素，返回更新后数组的长度**
 ```javaScript
     let arr = [1,2,3,4,5,6,7,8,9,0];
     let push = arr.push('eval')
